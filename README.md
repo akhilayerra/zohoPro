@@ -1,4 +1,4 @@
-This flow is to get the zoho projects details in to sharepoint using power automate flow
+This flow is to get the zoho projects details into sharepoint using power automate flow
 Step 1: Get Auth Token using Get Token API
 For getting the token
 refer https://www.zoho.com/people/api/oauth-steps.html
